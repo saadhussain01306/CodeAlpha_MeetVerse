@@ -113,3 +113,18 @@ server/
 ## License
 
 This project is licensed under the MIT License.
+
+## Project insights
+
+![Screenshot 2024-09-06 205144](https://github.com/user-attachments/assets/040cd67d-e9ee-4948-9d7d-cddd3f9268e4)
+![Screenshot 2024-09-06 205153](https://github.com/user-attachments/assets/4c718429-4cba-4309-83ec-6c78bf8d2687)
+![Screenshot 2024-09-06 205257](https://github.com/user-attachments/assets/a2e86d05-8bb6-4ac1-8e44-73aa5ef61360)
+![Screenshot 2024-09-06 205312](https://github.com/user-attachments/assets/999393d3-630f-4ea1-ab14-9de816bea97f)
+![Screenshot 2024-09-06 205407](https://github.com/user-attachments/assets/ffcb2c5d-ee77-46c2-8e52-b63244e1f1e1)
+![Screenshot 2024-09-06 205416](https://github.com/user-attachments/assets/a3ae403b-f8c2-4427-aa4e-d24b77d159d4)
+
+
+
+
+
+
